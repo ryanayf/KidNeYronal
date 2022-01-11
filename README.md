@@ -15,7 +15,7 @@ The repository includes:
 2. Data:
 
 -	Training, validation and test data sets (synthetic + acquired)
-- Healthy mice kidney data and ROI
+- Healthy mice kidney imaging data and ROI
   
 3. Pre-trained weights for 4 KidNeYronal models
 
