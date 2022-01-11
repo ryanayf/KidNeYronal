@@ -10,11 +10,11 @@ The repository includes:
   -	CNN with mixed data and with synthetic data
   -	MLP with mixed data and with synthetic data
 
-- Line-Fitting Analysis code
+- Line-fitting analysis code
 
 2. Data:
 
--	Training, Validation and test data sets (synthetic + acquired)
+-	Training, validation and test data sets (synthetic + acquired)
 
 3. Pre-trained weights for 4 KidNeYronal models
 
