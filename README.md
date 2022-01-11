@@ -7,8 +7,8 @@ The repository includes:
 1. Code: 
 
 - Training code for KidNeYronal in Jupyter notebooks
-  -	CNN with mixed data and with synthetic data
-  -	MLP with mixed data and with synthetic data
+  -	CNN with mixed data (Mix) and with synthetic data (S)
+  -	MLP with mixed data (Mix) and with synthetic data (S)
 
 - Line-fitting analysis code
 
