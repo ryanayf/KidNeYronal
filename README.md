@@ -4,10 +4,17 @@ This is an implementation of KidNeYronal-CNN using Python 3, Keras, and TensorFl
 
 The repository includes:
 
-•	Training source code for KidNeYronal-CNN in Jupyter notebooks
+Code: 
+•	Training code for KidNeYronal in Jupyter notebooks
+- CNN with mixed data and with synthetic data
+- MLP with mixed data and with synthetic data
 
-•	Pre-trained weights for KidNeYronal-CNN
+• Line-Fitting Analysis code
 
+Data
 •	Training, Validation and test data sets (synthetic + acquired)
 
-If you use it in your research, please consider citing this repository. 
+Others:
+•	Pre-trained weights for 4 KidNeYronal models
+
+If you use it in your research, please consider citing this repository and our paper:  
