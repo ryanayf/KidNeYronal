@@ -6,9 +6,10 @@ This is an implementation of KidNeYronal-CNN using Python 3.6, Keras, and Tensor
 ## The repository includes:
 ### 1. Code: 
 
-- Training code for KidNeYronal in Jupyter notebooks
-  -	CNN with mixed data (Mix) and with synthetic data (S)
-  -	MLP with mixed data (Mix) and with synthetic data (S)
+- Training code for KidNeYronal in Jupyter notebooks 
+  -	CNN with mixed data (_Mix) and with synthetic data (_S)
+  -	MLP with mixed data (_Mix) and with synthetic data (_S)
+[Google Colab](https://colab.research.google.com/) was used to run these Jupyter notebooks.
 
 - Line-fitting analysis code
 
