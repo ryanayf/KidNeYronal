@@ -1,7 +1,7 @@
 # KidNeYronal
 
 ## General
-This is an implementation of KidNeYronal-CNN using Python 3.6, Keras, and TensorFlow. The model generates 3 pHe compartment predictions from hyperpolarized zymonic acid spectra obtained in MRI of mixed (synthetic + acquired) data set of acquisitions from the kidneys of healthy mice.
+This is an implementation of KidNeYronal-CNN using Python, Keras, and TensorFlow using [Google Colab](https://colab.research.google.com/) . The model generates 3 pHe compartment predictions from hyperpolarized zymonic acid spectra obtained in MRI of mixed (synthetic + acquired) data set of acquisitions from the kidneys of healthy mice.
 
 ## The repository includes:
 ### 1. Code: 
@@ -10,8 +10,6 @@ This is an implementation of KidNeYronal-CNN using Python 3.6, Keras, and Tensor
   -	CNN with mixed data (_Mix) and with synthetic data (_S)
   -	MLP with mixed data (_Mix) and with synthetic data (_S)
  
-[Google Colab](https://colab.research.google.com/) was used to run these Jupyter notebooks.
-
 - Line-fitting analysis code
 
 ### 2. Data:
