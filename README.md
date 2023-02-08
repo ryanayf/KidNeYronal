@@ -3,6 +3,8 @@
 ## General
 This is an implementation of KidNeYronal - neural networks for pH predictions, using Python, Keras, and TensorFlow with [Google Colab](https://colab.research.google.com/) . The networks generate 3 pHe compartment predictions from hyperpolarized zymonic acid spectra obtained in MRI of mixed (synthetic + acquired) data set of acquisitions from the kidneys of healthy mice.
 
+![alt text][figure]
+[figure]: https://github.com/ryanayf/KidNeYronal/blob/a28ea6ef19c6f921847de9262efb5e4a0fdeca56/KidNeYronal_Fig1.png
 
 ## The repository includes:
 ### 1. Code: 
